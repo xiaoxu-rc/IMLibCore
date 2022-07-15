@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'IMLibCore/Classes/**/*'
   
-   s.resource_bundles = {
-     'IMLibCore' => ['IMLibCore/Assets/*.png']
-   }
+   # s.resource_bundles = {
+   #   'IMLibCore' => ['IMLibCore/Assets/*.png']
+   # }
 
    s.public_header_files = 'IMLibCore/Classes/**/*.h'
    s.frameworks = 'UIKit', 'MapKit'
