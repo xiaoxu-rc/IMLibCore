@@ -1,0 +1,6 @@
+framework module Pods_IMLibCore_Tests {
+  umbrella header "Pods-IMLibCore_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
