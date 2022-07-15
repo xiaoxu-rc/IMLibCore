@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IMLibCore'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A short description of IMLibCore.'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ TODO: Add long description of the pod here.
 
    s.public_header_files = 'IMLibCore/Classes/**/*.h'
    s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'AFNetworking', '3.0'
+   s.dependency 'AFNetworking', '3.0.0'
 end
